@@ -4,20 +4,7 @@ title: "Preview"
 description: ""
 ---
 {% include JB/setup %}
-<!--
 
-    Name:       3024
-    Author:     Jan T. Sott (http://github.com/idleberg)
-
-    3024 color scheme by Jan T. Sott (https://github.com/idleberg)
-    Preview template by Chris Kempson (https://github.com/chriskempson)
-    Built with a modified version of Base16 Builder by Chris Kempson (https://github.com/chriskempson)
-
--->
-<html>
-  <head>
-    <meta http-equiv="content-type" content="text/html">
-    <title>3024</title>
     <style type="text/css" media="screen">
       body { margin: 5% 20%; }
       .scheme, .author, pre, .block { font-family: "menlo", monospace; }
@@ -61,8 +48,7 @@ description: ""
       .base0E { color: #a16a94; }
       .base0F { color: #cdab53; }
     </style>
-  </head>
-  <body>
+
     <h1 class="scheme">3024</h1>
     <p class="author">Jan T. Sott</p>
     <div>
@@ -147,5 +133,3 @@ description: ""
 <span class="base0D">puts</span> <span class="base0B">"another </span><span class="base0F">#{</span><span class="base0A">Person</span>::<span class="base0D">greet</span><span class="base0F">}</span> <span class="base0F">#{</span><span class="base08">person1</span>.<span class="base0D">name</span><span class="base0F">}</span><span class="base0B">"</span>
       </pre>
     </div>
-  </body>
-</html>
