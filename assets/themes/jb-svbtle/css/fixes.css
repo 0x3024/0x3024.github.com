@@ -3,7 +3,7 @@ blockquote {
     border-color: #ff0000;
 }
 
-figure.logo, aside.alsoby li a:hover, aside.kudo.complete span.circle {
+aside.alsoby li a:hover, aside.kudo.complete span.circle {
     background-color: #ff0000;
 }
 
