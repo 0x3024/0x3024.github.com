@@ -1361,7 +1361,6 @@ figure.logo.medium {
 }
 
 figure.logo.medium a {
-    border-width: 5px;
     width: 114px;
     height: 114px;
     top: 8px;
@@ -1386,7 +1385,6 @@ figure.logo.medium a {
     }
 
     figure.logo.medium a {
-        border-width: 5px;
         width: 95px;
         height: 95px;
         top: 8px;
