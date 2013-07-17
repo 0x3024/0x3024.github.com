@@ -1347,8 +1347,6 @@ figure.logo {
 figure.logo a {
     display: block;
     position: absolute;
-    top: 6px;
-    left: 6px;
     width: 70px;
     height: 70px;
     text-indent: -9999px;
@@ -1363,8 +1361,6 @@ figure.logo.medium {
 figure.logo.medium a {
     width: 114px;
     height: 114px;
-    top: 8px;
-    left: 8px;
 }
 
 @media all and (device-width:768px) and (device-height:1024px),only all and (max-height:650px) {
@@ -1387,8 +1383,6 @@ figure.logo.medium a {
     figure.logo.medium a {
         width: 95px;
         height: 95px;
-        top: 8px;
-        left: 8px;
     }
 
     header#sidebar h1 {
@@ -1699,10 +1693,8 @@ figure.logo.medium a {
     }
 
     header#sidebar figure.logo a {
-        top: 10px;
-        left: 10px;
-        width: 170px;
-        height: 170px;
+        width: 240x;
+        height: 240px;
     }
 
     section article.post p,section article.post li {
