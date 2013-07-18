@@ -1359,6 +1359,11 @@ figure.logo.medium {
     height: 180px;
 }
 
+figure.logo.medium a {
+    width: 180px;
+    height: 180px;
+}
+
 @media all and (device-width:768px) and (device-height:1024px),only all and (max-height:650px) {
     header#sidebar {
         position: absolute;
@@ -1378,8 +1383,8 @@ figure.logo.medium {
     }
 
     figure.logo.medium a {
-        width: 95px;
-        height: 95px;
+        width: 120px;
+        height: 120px;
     }
 
     header#sidebar h1 {
