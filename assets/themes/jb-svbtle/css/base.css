@@ -1336,6 +1336,7 @@ p.legal a {
 }
 
 figure.logo {
+    background-image: url("/assets/maki.png");
     display: block;
     position: relative;
     background-color: #000;
@@ -1354,6 +1355,7 @@ figure.logo a {
 }
 
 figure.logo.medium {
+    background-image: url("/assets/maki.png");
     width: 140px;
     height: 140px;
 }
@@ -1683,10 +1685,6 @@ figure.logo.medium a {
     aside.read_next h3 {
         max-width: 80%;
     };
-}
-
-header#sidebar figure.logo {
-    background-image: url("/assets/maki.png");
 }
 
 @media only all and (min-width:1150px) {
