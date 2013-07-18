@@ -1336,7 +1336,6 @@ p.legal a {
 }
 
 figure.logo {
-    background-image: url("/assets/maki.png");
     display: block;
     position: relative;
     background-color: #000;
@@ -1355,9 +1354,9 @@ figure.logo a {
 }
 
 figure.logo.medium {
-    background-image: url("/assets/maki.png");
-    width: 140px;
-    height: 140px;
+    background-image: url("/assets/maki-180.png");
+    width: 180px;
+    height: 180px;
 }
 
 figure.logo.medium a {
@@ -1378,7 +1377,7 @@ figure.logo.medium a {
 
 @media all and (min-width:750px) and (max-width:900px) {
     figure.logo.medium {
-        background-image: url("/assets/maki.png");
+        background-image: url("/assets/maki-120.png");
         width: 120px;
         height: 120px;
     }
@@ -1690,8 +1689,9 @@ figure.logo.medium a {
 
 @media only all and (min-width:1150px) {
     header#sidebar figure.logo {
-    height: 240px;
-    width: 240px;
+        background-image: url("/assets/maki-240.png");
+        height: 240px;
+        width: 240px;
     }
 
     header#sidebar figure.logo a {
