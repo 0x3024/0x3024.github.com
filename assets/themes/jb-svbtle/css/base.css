@@ -1685,9 +1685,12 @@ figure.logo.medium a {
     };
 }
 
+header#sidebar figure.logo {
+    background-image: url("/assets/maki.png");
+}
+
 @media only all and (min-width:1150px) {
     header#sidebar figure.logo {
-    background-image: url("/assets/maki.png");
     height: 240px;
     width: 240px;
     }
